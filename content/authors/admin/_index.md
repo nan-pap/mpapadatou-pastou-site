@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nikos Konstantinou
+name: Marietta Papadatou-Pastou
 
 # Username (this should match the folder name)
 authors:
@@ -10,34 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Cognitive Neuroscience
+role: Assistant Professor of “Neuropsychology – Language Functions”
 
 # Organizations/Affiliations
 organizations:
-- name: Cyprus University of Technology
-  url: "https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1"
+- name: National and Kapodistrian University of Athens
+  url: "https://en.uoa.gr/"
+- name: Biomedical Research Foundation, Academy of Athens
+  url: "http://www.bioacademy.gr/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attention, working memory, and perception.
+bio: My research interests include various aspects of neuropsychology, as well as cognitive neuroscience and experimental psychology.
 
 interests:
-- Attention
-- Working Memory
-- Perception
-- Neuroimaging (MRI)
-- Brain Stimulation (TMS/tDCS)
+- Handedness
+- Brain Laterality
+- Neuromyths
+- Meta-analysis
+- Memory
+- Language
+- functional transcranial Doppler ultrasound (fTCD)
+- functional Magnetic Resonance Imaging (fMRI)
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
-    institution: University College London
-    year: 2011
-  - course: MSc in Cognitive/Developmental/Educational Psychology
-    institution: University of Cyprus
-    year: 2007
-  - course: BA in Psychology
-    institution: Louisiana State University
-    year: 2002
+  - course: D.Phil (PhD) in Neuropsychology
+    institution: Department of Experimental Psychology, University of Oxford, Oxford, UK
+    year: 2008
+  - course: Master of Science (MSc) in “Research Methods in Psychology”
+    institution: Department of Experimental Psychology, University of Oxford, Oxford, UK
+    year: 2004
+  - course: Ptychion (4-year BSc Hons.) in Psychology
+    institution: Department of Psychology, Panteion University of Social and Political Sciences, Athens, Greece
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,16 +51,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:nikos.konstantinou@cut.ac.cy".
+  link: '#contact'  # For a direct email link, use "mailto:marietta.papadatou@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/n_konstantinou
+  link: https://twitter.com/MPapadatou
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
-- icon: github
+  link: https://scholar.google.gr/citations?user=jVcD7-UAAAAJ&hl=el
+- icon: facebook
   icon_pack: fab
-  link: https://github.com/nkonstantinou
+  link: https://www.facebook.com/mariettapp/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marietta-papadatou-pastou-cpsychol-csci-afbpss-931b055a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,4 +79,4 @@ user_groups:
 - Researcher
 ---
 
-I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+My research interests include various aspects of neuropsychology, as well as cognitive neuroscience and experimental psychology. I have also developed an interest in the contributions of neuroscience in the educational process, i.e. in the new field of educational neuroscience. The main focus of my work is on behavioural and brain lateralization (i.e., handedness and brain asymmetry), in healthy adults and children as well as in students with special education needs (students with dyslexia, dysgraphia, hearing impaired students, students in the Autism Spectrum, and students with low or high IQ). I am employing behavioural and brain imaging techniques (functional transcranial Doppler ultrasound, fTCD) and I am a member of the [Consortium on Language Asymmetry (COLA)] (https://colaconsortium.wordpress.com/2019/06/10/about-cola/). I have also worked in neuropsychopharmacology, using functional magnetic resonance imaging (fMRI) to investigate the neural and behavioral effects of antidepressant drug action and of mood induction on autobiographical memory. I am further interested in meta-science, with a special focus on meta-analysis, and fascinated about reproducible research. I am a member of the [Psychological Science Accelerator (PSA)] (https://psysciacc.org/), where I have also served as an Assistant Director for the Ethics Review Committee. I am also usually happy to collect Greek data for fellow researchers doing cross-cultural work. On the applied side, I am a Research Associate for [iConcipio] (https://www.iconcipio.com/), an online support provider based in London UK. iConcipio has developed an online support system for psycholocal and study skills difficulties faced by students in Higher Education, under the name MePlusMe. Last but not least, I am interested in science outreach, giving talks, writing a column named “Let’s Science” for a8inea.com, and writing short articles in the Greek press.

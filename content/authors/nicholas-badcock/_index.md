@@ -1,43 +1,34 @@
 ---
 # Display name
-name: Nikos Konstantinou
+name: Nicholas Badcock
 
 # Username (this should match the folder name)
 authors:
-- admin
+- nicholas-badcock
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor of Cognitive Neuroscience
+role: Senior Lecturer of Psychological Science
 
 # Organizations/Affiliations
 organizations:
-- name: Cyprus University of Technology
-  url: "https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1"
+- name: University of Western Australia
+  url: "https://research-repository.uwa.edu.au/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attention, working memory, and perception.
+bio: His research focuses on learning difficulties and exceptional development with the aim of contributing to scientific understanding as well as translation for education and intervention. .
 
 interests:
-- Attention
-- Working Memory
-- Perception
-- Neuroimaging (MRI)
-- Brain Stimulation (TMS/tDCS)
+- Cognitive development
+- Cognitive control 
+- Lateralisation
+- Mental health
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
-    institution: University College London
-    year: 2011
-  - course: MSc in Cognitive/Developmental/Educational Psychology
-    institution: University of Cyprus
-    year: 2007
-  - course: BA in Psychology
-    institution: Louisiana State University
-    year: 2002
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:nikos.konstantinou@cut.ac.cy".
+  link: '#contact'  # For a direct email link, use "mailto:nicholas.badcock@uwa.edu.au".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/n_konstantinou
+  link: https://twitter.com/nicbadcock?lang=el
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
+  link: https://scholar.google.com.au/citations?user=G5_fKnEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/nkonstantinou
+  link: https://github.com/nicalbee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,4 +62,4 @@ user_groups:
 - Researcher
 ---
 
-I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+Dr. Badcock completed undergraduate and postgraduate studies at the University of Western Australia (UWA). He spent 11 years as a postdoc including time at Oxford University working with Professor Dorothy Bishop and Macquarie University working with Prof. Geneveive McArthur within the Reading Program of the Australian Research Council Centre of Excellence in Cognition and its Disorders. In 2020, he returned to UWA as a Senior Lecturer in the School of Psychological Science. Dr. Badcock is a developmental cognitive neuroscientist, interested in how perceptual and attentional capacities underpin complex functioning such as how cognitive control relates to reading ability. His research focuses on learning difficulties and exceptional development with the aim of contributing to scientific understanding as well as translation for education and intervention. He conducts these enquiries using behavioural psychophysics and neuroimaging techniques (e.g., electroencephalography, functional transcranial Doppler ultrasound, and functional magnetic resonance imaging).

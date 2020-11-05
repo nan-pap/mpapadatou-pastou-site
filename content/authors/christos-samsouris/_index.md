@@ -1,43 +1,41 @@
 ---
 # Display name
-name: Nikos Konstantinou
+name: Christos Samsouris
 
 # Username (this should match the folder name)
 authors:
-- admin
+- christos-samsouris
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor of Cognitive Neuroscience
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Cyprus University of Technology
-  url: "https://www.cut.ac.cy/faculties/hsc/reh/staff/Διδακτικό+και+Ερευνητικό+Προσωπικό+/nikoskonstantinou/?languageId=1"
+- name: National and Kapodistrian University of Athens
+  url: "https://en.uoa.gr/"
+- name: Biomedical Research Foundation, Academy of Athens
+  url: "http://www.bioacademy.gr/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attention, working memory, and perception.
+bio: 
 
 interests:
-- Attention
-- Working Memory
-- Perception
-- Neuroimaging (MRI)
-- Brain Stimulation (TMS/tDCS)
+- 
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
-    institution: University College London
-    year: 2011
-  - course: MSc in Cognitive/Developmental/Educational Psychology
-    institution: University of Cyprus
-    year: 2007
-  - course: BA in Psychology
-    institution: Louisiana State University
-    year: 2002
+  - course: 
+    institution: 
+    year: 
+  - course: 
+    institution: 
+    year: 
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:nikos.konstantinou@cut.ac.cy".
+  link: '#contact'  # For a direct email link, use "".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/n_konstantinou
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0L0T21wAAAAJ&hl=en
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/nkonstantinou
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,4 +69,4 @@ user_groups:
 - Researcher
 ---
 
-I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+

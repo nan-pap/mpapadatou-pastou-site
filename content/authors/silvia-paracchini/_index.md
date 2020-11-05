@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researcher
+- Collaborators
 ---
 
-I direct the `Brain and Cognitive Science (BaCS)` lab at the `Department of Rehabilitation Sciences, Cyprus University of Technology (CUT)`, based in Limassol, Cyprus. BaCS' research is focused on attention, working memory and perception in healthy people and patients with neurological and psychiatric disorders. We employ behavioural experimental methods together with neuroimaging (MRI) and non-invasive brain stimulation (TMS, tDCS) methods.
+I graduated in Biological Sciences (cum laude) from University of Pavia in 1998 and obtained a DPhil in Human Genetics from Oxford University in 2003. My project, supervised by Dr Chris Tyler-Smith and Prof. Ed Southern involved the development of genotyping methods and screening of large cohorts for genetic associations with prostate cancer and male infertility. I conducted my post-doctoral training in Prof. Anthony Monaco’s group at the Welcome Trust Centre for Human Genetics, Oxford University. In 2011 I was awarded a Royal Society University Research Fellowship to set up my group at St Andrews. In 2013 I became member of the Young Academy of Scotland. In 2018 I was elected Fellow of the Royal Society of Biology (FRSB) and in 2019 I became a Fellow of the Royal Society of Edinburgh (FRSE) and was promoted to Reader. I lead the St Andrews Bioinformatics Unit and I am the co-Director of the the Institute of Behavioural and Neural Sciences.    
